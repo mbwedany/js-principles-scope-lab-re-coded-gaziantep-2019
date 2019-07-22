@@ -2,5 +2,5 @@
 var customerName;
 
 function upperCaseCustomerName(){
-  return customerName.to
+  return customerName.toUpperCase()
 }
